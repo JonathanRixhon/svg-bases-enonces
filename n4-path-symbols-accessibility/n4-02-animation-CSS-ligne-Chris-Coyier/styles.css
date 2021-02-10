@@ -5,9 +5,20 @@ Vous aurez besoin de connaître la longueur du path. Il y a deux moyens pour la 
 - en utilisant l'inspecteur
 - par Javascript : complétez le script JS pour l’obtenir.
 */
+@keyframes reveal {
+	from {
+		stroke-dashoffset: 821;
+	}
+	to {
+		stroke-dashoffset: 0;
+	}
+}
 
 path {
-    fill: #FFFFFF;
-    stroke: #008B6F;
-    stroke-width: 4px;
+	fill: #ffffff;
+	stroke: #008b6f;
+	stroke-width: 4px;
+	stroke-dasharray: 821 821;
+	stroke-dashoffset: 821;
+	animation: reveal 2s ease-in-out alternate infinite;
 }
