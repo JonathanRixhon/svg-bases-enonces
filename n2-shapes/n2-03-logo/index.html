@@ -1,19 +1,34 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Un logo SVG</title>
-    <link rel="stylesheet" href="styles.css"/>
-</head>
-<body>
-	<h1>Un logo SVG</h1>
-	<!--
+	<head>
+		<meta charset="UTF-8" />
+		<meta
+			name="viewport"
+			content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+		/>
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+		<title>Un logo SVG</title>
+		<link rel="stylesheet" href="styles.css" />
+	</head>
+	<body>
+		<h1>Un logo SVG</h1>
+		<!--
 		intégrez ici un svg inline de 268px de haut et 268px de large
-	-->
-<!--
+    -->
+		<svg
+			xmlns="http://www.w3.org/2000/svg"
+			version="1.1"
+			width="268"
+			height="268"
+		>
+			<title>Un logo svg</title>
+			<desc>Logo représentant un triangle et un texte "SVG"</desc>
+			<circle r="130" cx="134" cy="134" />
+			<line x1="49" y1="198" x2="219" y2="198" />
+			<polygon points="52 190, 134 30, 216 190" />
+			<text x="134" y="142">SVG</text>
+		</svg>
+		<!--
 1. 
 a) Placez-y un cercle dont le centre est au centre de ce canevas et dont le rayon est de 130px ;
 b) Donnez au cercle
@@ -38,6 +53,6 @@ b) Ce triangle a
 - des jointures de ligne arrondies ;
 - un remplissage de couleur #008B6F
 -->
-<!-- N’oubliez pas les balises title et desc pour l’accessibilité -->
-</body>
+		<!-- N’oubliez pas les balises title et desc pour l’accessibilité -->
+	</body>
 </html>

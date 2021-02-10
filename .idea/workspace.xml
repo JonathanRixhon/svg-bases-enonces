@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47a3774b-c543-495a-a016-bb0955158756" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/n1-intro/n1-01-premier-svg/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n1-intro/n1-01-premier-svg/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n1-intro/n1-01-premier-svg/premier-svg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/n1-intro/n1-01-premier-svg/premier-svg.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n1-intro/n1-02-screen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n1-intro/n1-02-screen/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n1-intro/n1-02-screen/screen.svg" beforeDir="false" afterPath="$PROJECT_DIR$/n1-intro/n1-02-screen/screen.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-01-phone/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-01-phone/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-01-phone/phone.svg" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-01-phone/phone.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-01-phone/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-01-phone/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-02-animated-phone/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-02-animated-phone/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-02-animated-phone/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-02-animated-phone/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-03-logo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-03-logo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n2-shapes/n2-03-logo/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n2-shapes/n2-03-logo/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-01-logo2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-01-logo2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-01-logo2/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-01-logo2/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-02-logo2-transforms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-02-logo2-transforms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-02-logo2-transforms/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-02-logo2-transforms/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-03-logo2-transforms-responsive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-03-logo2-transforms-responsive/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-03-logo2-transforms-responsive/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-03-logo2-transforms-responsive/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-04-logo2-transforms-responsive-portable/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-04-logo2-transforms-responsive-portable/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-04-logo2-transforms-responsive-portable/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-04-logo2-transforms-responsive-portable/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n3-group-transform-responsive/n3-04-logo2-transforms-responsive-portable/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/n3-group-transform-responsive/n3-04-logo2-transforms-responsive-portable/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nyMSfqGPSRoO82AuOsjJUkw82u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47a3774b-c543-495a-a016-bb0955158756" name="Default Changelist" comment="" />
+      <created>1612357878903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612357878903</updated>
+      <workItem from="1612357879977" duration="89000" />
+      <workItem from="1612442353291" duration="715000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
